@@ -1,0 +1,11 @@
+{
+  "name": "web-assema-project",
+  "version": "1.0.0",
+  "description": "This project contains three main pages: Homepage, about page, error page. Also, two images and one video can be opened in this project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Assem A.",
+  "license": "ISC"
+}
